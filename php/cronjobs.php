@@ -31,7 +31,7 @@ $currentDate = date('Y-m-d'); //this will get the current date ie when this was 
         
         $host = "ssl://mail.repotecc.com";
         $username = "ayomide@repotecc.com";
-        $password = "Vadtontech1953.";
+        $password = "";
         $port = "465";
         $to = $row[2]; //gets the user email address
     
