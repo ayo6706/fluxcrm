@@ -399,7 +399,6 @@ if($action=='delete')
 			</div>
 		</div>
 	</div>
-	<!-- /modal with invoice -->
 
 </body>
 <script>
